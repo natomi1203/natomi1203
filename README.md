@@ -101,15 +101,18 @@ Applied statistical modeling and consumer panel data analytics to solve business
 - [**Information Processing Device and Information Processing Method**](https://patents.google.com/patent/JP7628652B1/en)
   - JP2026064171A / JP7628652B1 · Filed Oct 1, 2024 · Granted Feb 10, 2025
   - Developed a machine learning system that maps accounting data to greenhouse gas emission factors and calculates Scope 1–3 emissions.
-- [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
+- [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP7469987B2/en)
   - JP2022030356A / JP7469987B2 · Filed Aug 7, 2020 · Granted Apr 17, 2024
-  - Developed the underlying invention and technical implementation of the ML-based rebar inspection system.
+  - Developed a computer vision system that uses machine learning to detect rebar intersections and measure spacing from construction-site imagery.
 - [**Fatigue State Determination Method, Learning Model Generation Method, Fatigue State Determination System, Fatigue State Determination Device, and Computer Program**](https://patents.google.com/patent/JP2022015733A/en)
-  - JP2022015733A · Filed Jul 9, 2020
+  - JP2022015733A · Filed Jul 9, 2020 · Pending
+  - Developed a machine learning method that estimates lower-limb fatigue from gait sensor data, including acceleration, angular velocity, and geomagnetism.
 - [**Bolt Inspection Device, Bolt Inspection System, Bolt Inspection Method, and Program**](https://patents.google.com/patent/JP7200955B2/en)
   - JP2021113755A / JP7200955B2 · Filed Jan 20, 2020 · Granted Jan 10, 2023
+  - Developed a computer vision system that uses machine learning to assess bolt-tightening conditions from marking and pintail states in bolt images.
 - [**Bolt Inspection Device, Bolt Inspection System, Bolt Inspection Method, and Program**](https://patents.google.com/patent/JP7331509B2/en)
   - JP2021015041A / JP7331509B2 · Filed Jul 12, 2019 · Granted Aug 23, 2023
+  - Developed a video-based computer vision system that detects and tracks individual bolts and evaluates tightening conditions across multiple frames.
 
 ## Education
 
