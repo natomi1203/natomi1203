@@ -4,7 +4,7 @@
 
 ### Independent ML Engineer · Recommender Systems · LLMs · Applied Research
 
-I am an independent ML engineer with experience spanning data science, AI engineering, product management, and production ML systems.
+I am an independent ML engineer with experience spanning data science, AI engineering, project management, solution architecture, and production ML systems.
 
 I work at the intersection of applied research and engineering, turning data and models into reliable systems that create practical value.
 
@@ -24,12 +24,12 @@ I work at the intersection of applied research and engineering, turning data and
 ## Professional Experience
 
 - **Independent — ML Engineer** · 2023–Present
-- **Mitsui Fudosan Co., Ltd. — Product Manager, Data & AI** · 2020–2023
+- **Mitsui Fudosan Co., Ltd. — Project Manager / Data Scientist / Solution Architect** · 2020–2023
   - Built a data platform spanning multiple companies in the hotel business and worked on revenue management, including dashboards and forecasting models.
 - **JFE Engineering Corporation — AI Engineer** · 2018–2020
 - **INTAGE Inc. — Data Scientist** · 2015–2018
 
-My career has taken me from data science and AI engineering to data product leadership and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
+My career has taken me from data science and AI engineering to project management, solution architecture, and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
 
 ## Education
 
