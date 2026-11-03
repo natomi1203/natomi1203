@@ -98,6 +98,9 @@ Applied statistical modeling and consumer panel data analytics to solve business
 
 ## Patents
 
+- [**Information Processing Device and Information Processing Method**](https://patents.google.com/patent/JP7628652B1/en)
+  - JP2026064171A / JP7628652B1 · Filed Oct 1, 2024 · Granted Feb 10, 2025
+  - Developed a machine learning system that maps accounting data to greenhouse gas emission factors and calculates Scope 1–3 emissions.
 - [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
   - JP2022030356A / JP7469987B2 · Filed Aug 7, 2020 · Granted Apr 17, 2024
   - Developed the underlying invention and technical implementation of the ML-based rebar inspection system.
