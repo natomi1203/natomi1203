@@ -96,7 +96,7 @@ Applied statistical modeling and consumer panel data analytics to solve business
 - Social Listening & Trend Discovery
 - Sales Optimization & Consumer Insights
 
-## Patents & Patent Applications
+## Patents
 
 - [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
   - JP2022030356A / JP7469987B2 · Filed Aug 7, 2020 · Granted Apr 17, 2024
