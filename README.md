@@ -40,7 +40,7 @@ My career has taken me from data science and AI engineering to data product lead
 
 ## Professional Development
 
-- **ESSEC Business School** — Online study in Hotel Management: Distribution, Revenue & Demand Management · 2020–2021
+- **ESSEC Business School** — Hotel Management: Distribution, Revenue & Demand Management · 2020–2021
 
 ## Technologies
 
