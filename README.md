@@ -2,18 +2,20 @@
 
 # Hi, I'm Naoyuki Tomita
 
-### Independent ML Engineer · Recommender Systems · LLMs · Applied Research
+### Independent ML Engineer · Applied Research to Production
 
-I am an independent ML engineer with experience spanning data science, AI engineering, project management, solution architecture, and production ML systems.
+I turn advanced statistical and machine learning methods into real-world systems and business outcomes.
 
-I work at the intersection of applied research and engineering, turning data and models into reliable systems that create practical value.
+My work spans recommender systems, LLMs, industrial computer vision, marketing science, and data platforms, with experience across data science, AI engineering, solution architecture, and project leadership.
+
+I work end to end—from problem formulation and modeling to architecture, implementation, evaluation, and production delivery.
 
 [![Zenn](https://img.shields.io/badge/Zenn-tommy__suplex-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/tommy_suplex)
 [![Email](https://img.shields.io/badge/Email-natomi1203%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:natomi1203@gmail.com)
 
 </div>
 
-## Focus Areas
+## Current Focus
 
 - **Recommender Systems** — retrieval, ranking, personalization, and evaluation
 - **Large Language Models** — LLM applications, retrieval-augmented systems, and evaluation
@@ -35,7 +37,7 @@ I work at the intersection of applied research and engineering, turning data and
 
 ## Professional Experience
 
-My career has taken me from data science and AI engineering to project management, solution architecture, and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
+My career spans marketing science, industrial AI, data platforms, project leadership, and independent ML engineering, with a consistent focus on translating complex data and models into practical systems.
 
 - **Independent — ML Engineer** · 2023–Present
 - **Mitsui Fudosan Co., Ltd. — Project Manager / Data Scientist / Solution Architect** · 2020–2023
