@@ -36,6 +36,11 @@ My career has taken me from data science and AI engineering to data product lead
 - **Tokyo University of Science** — Mathematics, Faculty of Science
 - **Tokyo University of Science, Graduate School** — Graduate studies in Mathematical Information Science
 
+## Research Training
+
+- **Biostatistics, Nagoya University Graduate School of Medicine**
+  - Received research guidance from Professor Shigeyuki Matsui.
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
