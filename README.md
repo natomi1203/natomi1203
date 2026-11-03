@@ -33,17 +33,15 @@ My career has taken me from data science and AI engineering to project managemen
 
 ## Patents & Patent Applications
 
+- [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
+  - JP2022030356A / JP7469987B2 · Filed Aug 7, 2020 · Granted Apr 17, 2024
+  - Developed the underlying invention and technical implementation of the ML-based rebar inspection system.
 - [**Fatigue State Determination Method, Learning Model Generation Method, Fatigue State Determination System, Fatigue State Determination Device, and Computer Program**](https://patents.google.com/patent/JP2022015733A/en)
   - JP2022015733A · Filed Jul 9, 2020
 - [**Bolt Inspection Device, Bolt Inspection System, Bolt Inspection Method, and Program**](https://patents.google.com/patent/JP7200955B2/en)
   - JP2021113755A / JP7200955B2 · Filed Jan 20, 2020 · Granted Jan 10, 2023
 - [**Bolt Inspection Device, Bolt Inspection System, Bolt Inspection Method, and Program**](https://patents.google.com/patent/JP7331509B2/en)
   - JP2021015041A / JP7331509B2 · Filed Jul 12, 2019 · Granted Aug 23, 2023
-
-### Additional Patent-Related Work
-
-- [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
-  - JP2022030356A / JP7469987B2 · Contributed to the underlying invention and technical development of the ML-based rebar inspection system.
 
 ## Education
 
