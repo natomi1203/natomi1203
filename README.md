@@ -21,15 +21,35 @@ I work at the intersection of applied research and engineering, turning data and
 - **ML Engineering & MLOps** — training and inference pipelines, monitoring, reliability, and performance
 - **Data Engineering** — ETL/ELT, large-scale data processing, and data platform design
 
+## Technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+**Cloud Platforms**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 ## Professional Experience
+
+My career has taken me from data science and AI engineering to project management, solution architecture, and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
 
 - **Independent — ML Engineer** · 2023–Present
 - **Mitsui Fudosan Co., Ltd. — Project Manager / Data Scientist / Solution Architect** · 2020–2023
   - Built a data platform spanning multiple companies in the hotel business and worked on revenue management, including dashboards and forecasting models.
 - **JFE Engineering Corporation — AI Engineer** · 2018–2020
 - **INTAGE Inc. — Data Scientist** · 2015–2018
-
-My career has taken me from data science and AI engineering to project management, solution architecture, and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
 
 ### Marketing Science — INTAGE
 
@@ -57,28 +77,18 @@ Applied statistical modeling and consumer panel data analytics to solve business
 - [**Bolt Inspection Device, Bolt Inspection System, Bolt Inspection Method, and Program**](https://patents.google.com/patent/JP7331509B2/en)
   - JP2021015041A / JP7331509B2 · Filed Jul 12, 2019 · Granted Aug 23, 2023
 
-## Education
+## Education & Professional Development
+
+### Education
 
 - **Nagoya University Graduate School of Medicine** — Graduate studies in Biostatistics · 2014–2015
   - Received research guidance from Professor Shigeyuki Matsui.
 - **Tokyo University of Science, Graduate School** — Graduate studies in Mathematical Information Science · 2012–2014
 - **Tokyo University of Science** — Mathematics, Faculty of Science · 2008–2012
 
-## Professional Development
+### Professional Development
 
 - **ESSEC Business School** — Hotel Management: Distribution, Revenue & Demand Management · 2020–2021
-
-## Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ## Writing
 
