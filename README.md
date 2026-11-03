@@ -41,6 +41,10 @@ My career has taken me from data science and AI engineering to data product lead
 - **Biostatistics, Nagoya University Graduate School of Medicine**
   - Received research guidance from Professor Shigeyuki Matsui.
 
+## Professional Development
+
+- **ESSEC Business School** — One year of online study in Hotel Management: Distribution, Revenue & Demand Management
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
