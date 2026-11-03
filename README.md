@@ -39,11 +39,48 @@ My career has taken me from data science and AI engineering to project managemen
 
 - **Independent — ML Engineer** · 2023–Present
 - **Mitsui Fudosan Co., Ltd. — Project Manager / Data Scientist / Solution Architect** · 2020–2023
-  - Built a data platform spanning multiple companies in the hotel business and worked on revenue management, including dashboards and forecasting models.
 - **JFE Engineering Corporation — AI Engineer** · 2018–2020
-  - Developed computer vision systems for bolt-tightening inspection, rebar-spacing inspection, and automated welding control.
-  - Built a video-based prediction system that identified problematic combustion conditions from waste-incinerator footage and supported automated furnace control.
 - **INTAGE Inc. — Data Scientist** · 2015–2018
+
+## Technical Experience
+
+### Applied ML Engineering — Independent
+
+Developing production-oriented machine learning systems across recommender systems, LLM applications, MLOps, and data engineering, with an emphasis on turning applied research into measurable product improvements.
+
+**Key Expertise**
+
+- Retrieval, Ranking & Personalization
+- LLM Applications & Retrieval-Augmented Systems
+- Model & System Evaluation
+- Training & Inference Pipelines
+- Monitoring, Reliability & Performance
+- ETL/ELT & Large-Scale Data Processing
+
+### Data Platform & Revenue Management — Mitsui Fudosan
+
+Led data platform and revenue management initiatives spanning multiple companies in the hotel business, working across project management, data science, and solution architecture.
+
+**Key Expertise**
+
+- Cross-Company Data Platform Architecture
+- Hotel Data Integration & Analytics
+- Revenue Management
+- Demand Forecasting
+- BI Dashboards & Decision Support
+- Project Management & Solution Architecture
+
+### Industrial AI & Computer Vision — JFE Engineering
+
+Developed computer vision and video analytics systems for industrial inspection, process automation, and plant control.
+
+**Key Expertise**
+
+- Bolt-Tightening Inspection — computer vision for automated quality inspection
+- Rebar-Spacing Inspection — image-based detection and measurement of reinforcement placement
+- Automated Welding Control — vision-based monitoring and process control
+- Combustion Video Analytics — prediction of problematic combustion conditions from waste-incinerator footage
+- Waste-Incinerator Control — operational control informed by video-based combustion predictions
 
 ### Marketing Science — INTAGE
 
