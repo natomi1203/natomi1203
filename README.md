@@ -31,6 +31,20 @@ I work at the intersection of applied research and engineering, turning data and
 
 My career has taken me from data science and AI engineering to project management, solution architecture, and independent ML engineering, giving me a broad perspective across research, engineering, and product development.
 
+### Marketing Science — INTAGE
+
+Applied statistical modeling and consumer panel data analytics to solve business challenges for leading enterprises across multiple industries.
+
+**Key Expertise**
+
+- Marketing Mix Modeling (MMM)
+- Structural Equation Modeling (SEM)
+- State-Space Models & Time-Series Forecasting
+- Advertising Effectiveness & Demand Forecasting
+- Consumer Panel Data & Behavioral Analytics
+- Social Listening & Trend Discovery
+- Sales Optimization & Consumer Insights
+
 ## Patents & Patent Applications
 
 - [**Information Processing Device, Information Processing Method, and Program**](https://patents.google.com/patent/JP2022030356A/en)
