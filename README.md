@@ -33,10 +33,10 @@ My career has taken me from data science and AI engineering to data product lead
 
 ## Education
 
-- **Tokyo University of Science** — Mathematics, Faculty of Science · 2008–2012
-- **Tokyo University of Science, Graduate School** — Graduate studies in Mathematical Information Science · 2012–2014
 - **Nagoya University Graduate School of Medicine** — Graduate studies in Biostatistics · 2014–2015
   - Received research guidance from Professor Shigeyuki Matsui.
+- **Tokyo University of Science, Graduate School** — Graduate studies in Mathematical Information Science · 2012–2014
+- **Tokyo University of Science** — Mathematics, Faculty of Science · 2008–2012
 
 ## Professional Development
 
