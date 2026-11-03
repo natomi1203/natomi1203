@@ -41,6 +41,8 @@ My career has taken me from data science and AI engineering to project managemen
 - **Mitsui Fudosan Co., Ltd. — Project Manager / Data Scientist / Solution Architect** · 2020–2023
   - Built a data platform spanning multiple companies in the hotel business and worked on revenue management, including dashboards and forecasting models.
 - **JFE Engineering Corporation — AI Engineer** · 2018–2020
+  - Developed computer vision systems for bolt-tightening inspection, rebar-spacing inspection, and automated welding control.
+  - Built a video-based prediction system that identified problematic combustion conditions from waste-incinerator footage and supported automated furnace control.
 - **INTAGE Inc. — Data Scientist** · 2015–2018
 
 ### Marketing Science — INTAGE
